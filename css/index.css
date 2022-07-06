@@ -1,0 +1,41 @@
+main{
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+    
+}
+.menu{
+    overflow: scroll;
+}
+ul{
+    list-style: none;    
+    
+    display: flex;
+
+}
+*{
+    margin: 1px; 
+    padding: 1px;
+    border: 1vh;    
+}
+.tilapia{
+    float:left ;
+    
+}
+.chicken{
+    float: left;
+}
+.soup{
+    float: left;
+}
+.spaghetti{
+    float: left;
+}
+.salad{
+    float: left;
+    clear: right;
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/gourmet-chef-cooking-in-a-commercial-kitchen-picture-id866699668?b=1&k=20&m=866699668&s=612x612&w=0&h=TiAr1fxLl4Isl1yBUaDd0aXpLlmh_Rs05EA_IjSHhB8=);
+}
