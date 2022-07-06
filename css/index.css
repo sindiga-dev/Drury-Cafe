@@ -15,9 +15,10 @@ ul{
 
 }
 *{
-    margin: 1px; 
+    margin: 20px; 
     padding: 1px;
-    border: 1vh;    
+    border: 1vh;  
+    box-shadow: 10px;  
 }
 .tilapia{
     float:left ;
@@ -38,4 +39,24 @@ ul{
 }
 body{
     background-image: url(https://media.istockphoto.com/photos/gourmet-chef-cooking-in-a-commercial-kitchen-picture-id866699668?b=1&k=20&m=866699668&s=612x612&w=0&h=TiAr1fxLl4Isl1yBUaDd0aXpLlmh_Rs05EA_IjSHhB8=);
+}
+.why{
+    float: left;
+    border: 1px white;
+    border-style: dashed;
+    padding: 50px;
+
+    
+}
+.mission{
+    border: 1px  white;
+    border-style: double;
+    padding: 100px;
+
+}
+h1{
+    padding: 30px;
+}
+p{
+    padding: 20px;
 }
